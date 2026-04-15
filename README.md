@@ -29,7 +29,8 @@ Start the development server:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can view the active production website at: **[https://portfolio-virid-six-98.vercel.app/](https://portfolio-virid-six-98.vercel.app/)**
 
 ## 📦 Deployment via Vercel
 The code is directly deployable to [Vercel](https://vercel.com/new).
