@@ -3,8 +3,8 @@
 A premium, interactive personal portfolio website showcasing projects, skills, and my learning journey as a Computer Science student.
 
 ## 🚀 Live Demo
-**[View Live Portfolio on Vercel](https://aryancodes352-portfolio.vercel.app/)**  
-*(Note: Replace this link with your exact URL once Vercel finishes deploying!)*
+**[View Live Portfolio on Vercel](https://portfolio-virid-six-98.vercel.app/)**  
+*(Note: This is the active production build deployed via Vercel)*
 
 ## ✨ Features
 - **Modern Aesthetic:** Dark mode "Cyber/Matrix" layout with glassmorphic elements and high-end typography.
